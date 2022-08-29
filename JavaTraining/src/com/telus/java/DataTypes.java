@@ -10,6 +10,8 @@ public class DataTypes {
 
 	public static void main(String[] args) {
 		
+		//new updates
+		
 		//byte data type
 		byte day = 7;
 		System.out.println("Byte data type value is " + day);
