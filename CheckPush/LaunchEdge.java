@@ -10,7 +10,7 @@ public class LaunchEdge {
 		WebDriver edge = new EdgeDriver();
 		String url = "https://nxtgenaiacademy.com";
 		edge.get(url);
-		//Update Git push
+	
 		edge.manage().window().maximize();
 		
 
