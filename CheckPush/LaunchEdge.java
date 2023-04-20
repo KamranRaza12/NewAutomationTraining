@@ -10,6 +10,7 @@ public class LaunchEdge {
 		WebDriver edge = new EdgeDriver();
 		String url = "https://nxtgenaiacademy.com";
 		edge.get(url);
+		//AWS PUSH CHECK
 	
 		edge.manage().window().maximize();
 		
